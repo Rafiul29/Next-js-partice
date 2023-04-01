@@ -1,9 +1,13 @@
-import React from 'react'
 
-const Home = () => {
+
+const Home  = () => {
   return (
-    <div>Home</div>
+    <div className='min-h-screen'>
+     <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+       </div>
   )
 }
 
-export default Home
+export default Home 
