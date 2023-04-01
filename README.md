@@ -1,3 +1,3 @@
-# Proxima
----
-Proxima is a user-friendly project management application built using the MERN stack. With Proxima, users can create, edit, and delete projects with ease. The application features secure JWT authentication and frontend protected routes to ensure user privacy and security. 
+- [01-Routing](https://github.com/Rafiul29/next-js-partice/tree/01-Routing)
+- [02-next-pre-renderign](https://github.com/Rafiul29/next-js-partice/tree/02-next-pre-renderign)
+- [03-next-api](https://github.com/Rafiul29/next-js-partice/tree/03-next-api)
